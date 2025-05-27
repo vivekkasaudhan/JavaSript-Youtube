@@ -1,2 +1,2 @@
 # JavaSript-Youtube
-Learning Java Script from Youtbe
+Learning Java Script from Youtube
